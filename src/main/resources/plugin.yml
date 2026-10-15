@@ -1,0 +1,13 @@
+name: NickBook
+version: 1.1.0
+main: com.mikaeel.nickbook.NickBookPlugin
+author: Mikaeel
+softdepend: [PlaceholderAPI, LuckPerms, TAB, LPC]
+commands:
+  nick:
+    description: Open nickname setup or reset your nickname
+    usage: /nick [reset]
+    aliases: [nickname]
+permissions:
+  nickbook.use:
+    default: true

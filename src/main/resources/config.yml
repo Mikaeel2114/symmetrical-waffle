@@ -1,0 +1,21 @@
+# Names used by /nick name random.
+random-names:
+  - NebulaFox
+  - PixelPilot
+  - CopperCreeper
+  - LunarByte
+  - MossyMiner
+  - QuartzKnight
+  - EmberEcho
+  - CloudCrafter
+
+# Rank labels shown while nicked.
+ranks:
+  DEFAULT: "&7"
+  VIP: "&a[VIP] "
+  VIP+: "&a[VIP&6+&a] "
+  MVP: "&b[MVP] "
+  MVP+: "&b[MVP&c+&b] "
+
+# Used only when LPC is NOT installed. With LPC, use %nickbook_...% in LPC config.
+fallback-chat-format: true
